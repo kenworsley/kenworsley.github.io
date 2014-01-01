@@ -11,15 +11,15 @@ img {
 	max-width: 100%;
 }
 a:link {
-	color: #f68f67;
+	color: #eee;
 	text-decoration: none;
 }
 a:hover {
-	color: #bde2df;
+	color: #ddd;
 	text-decoration: none;
 }
 a:visited {
-	color: #f68f67;
+	color: #eee;
 	text-decoration: none;
 }
 
@@ -56,12 +56,12 @@ a:visited {
 }
 .navigation li:hover{
 	cursor:pointer;
-	color: #a9d3d0;
+	color: #2980B9;
 }
 
 .navigation .active{
 	cursor:pointer;
-	color: #f68f67;
+	color: #2980B9;
 	font-weight:bold;
 }
 
