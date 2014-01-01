@@ -53,6 +53,7 @@ a:visited {
 .navigation li{
 	float: left;
 	padding:0 0 0 50px;
+        color: #ccc;
 }
 .navigation li:hover{
 	cursor:pointer;
